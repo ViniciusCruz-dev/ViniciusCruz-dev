@@ -1,4 +1,4 @@
-### Olá, me chamo Vinicius Cruz ✌️🧔 
+# Olá, me chamo Vinicius Cruz ✌️🧔 
 #### Entusiasta por tecnologia, atualmente estudante de Analise e desevolvimento de sistemas.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-da-cruz-silva-31ba7410b/)
