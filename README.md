@@ -1,6 +1,9 @@
-### Olá, me chamo Vinicius Cruz ✌️🧔
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991521175)
+### Olá, me chamo Vinicius Cruz ✌️🧔 
+#### Entusiasta por tecnologia, atualmente estudante de Analise e desevolvimento de sistemas.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-da-cruz-silva-31ba7410b/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991521175)
+
      
 [![ViniciusCruz Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCruz-dev&layout=compact)](https://github.com/ViniciusCruz-dev/github-readme-stats)
 
