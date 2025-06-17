@@ -5,7 +5,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991521175)
 
      
-[![ViniciusCruz Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCruz-dev&layout=compact)](https://github.com/ViniciusCruz-dev/github-readme-stats)
+
 
 ## Tecnologias que estou treinando
 
