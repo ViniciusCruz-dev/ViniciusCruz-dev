@@ -5,7 +5,7 @@
 Fundei e desenvolvo o **WhatsXpert** — plataforma SaaS de atendimento via WhatsApp com painel multiusuário, automações com IA, fluxos inteligentes e integração em tempo real.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-da-cruz-silva-31ba7410b/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512997691681)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991521175)
 [![WhatsXpert](https://img.shields.io/badge/WhatsXpert-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.whatsxpert.com.br)
 
 ---
