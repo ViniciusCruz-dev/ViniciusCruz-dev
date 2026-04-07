@@ -35,7 +35,7 @@ Plataforma completa que desenvolvo do zero como fundador e desenvolvedor princip
 - 🤖 **Fluxos de automação** com editor visual no-code
 - 🧠 **Integração com IA** para respostas automáticas
 - 📊 **Dashboard de analytics** com métricas de atendimento
-- 👥 **Multi-tenant** — cada cliente com seu próprio painel e equipe
+- 👥 **Multi-atendente** — cada cliente com seu próprio painel e equipe
 - 📅 **Agenda de contatos** com campos personalizados e etiquetas
 - 📨 **Envio em massa** com segmentação por etiquetas
 - 🔒 **Autenticação e controle de acesso** por perfil (gerente/atendente)
