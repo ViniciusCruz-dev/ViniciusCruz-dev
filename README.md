@@ -27,7 +27,7 @@ Fundei e desenvolvo o **WhatsXpert** — plataforma SaaS de atendimento via What
 ## 🏗️ Projeto principal
 
 ### WhatsXpert — Plataforma SaaS de Atendimento via WhatsApp
-> Repositório privado · Em produção · [www.whatsxpert.com.br](https://www.whatsxpert.com.br)
+· Em produção · [www.whatsxpert.com.br](https://www.whatsxpert.com.br)
 
 Plataforma completa que desenvolvo do zero como fundador e desenvolvedor principal:
 
